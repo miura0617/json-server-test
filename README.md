@@ -12,8 +12,8 @@ Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.\
 
 Runs the json-server.\
-Open [http://localhost:3003/user] to view user data in your browser.\
-Open [http://localhost:3003/todo] to view todo data in your browser.\
+Open [http://localhost:3003/user](http://localhost:3003/user) to view user data in your browser.\
+Open [http://localhost:3003/todo](http://localhost:3003/todo) to view todo data in your browser.\
 
 ### `npm test`
 
