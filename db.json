@@ -1,0 +1,81 @@
+{
+    "user": [
+        {
+            "userId": 1,
+            "lastName": "Tom",
+            "firstName": "Brian",
+            "address": {
+                "home": {
+                    "street": "Street9",
+                    "city": "Chuoku",
+                    "zip": "104‑0042"
+                },
+                "work": {
+                    "street": "",
+                    "city": "",
+                    "zip": ""
+                }
+            },
+            "phone": {
+                "home": "ddd-eeee-ffff",
+                "work": "xxx-yyyy-zzzz"
+            }
+        },
+        {
+            "userId": 2,
+            "lastName": "Mike",
+            "firstName": "Jonson",
+            "address": {
+                "home": {
+                    "street": "Street3",
+                    "city": "Chiyodaku",
+                    "zip": "102‑0072"
+                },
+                "work": {
+                    "street": "",
+                    "city": "",
+                    "zip": ""
+                }
+            },
+            "phone": {
+                "home": "aaa-bbbb-cccc",
+                "work": "fff-gggg-hhhh"
+            }
+        },
+        {
+            "userId": 3,
+            "lastName": "Kelly",
+            "firstName": "June",
+            "address": {
+                "home": {
+                    "street": "Street12",
+                    "city": "Minatoku",
+                    "zip": "105‑6910"
+                },
+                "work": {
+                    "street": "",
+                    "city": "",
+                    "zip": ""
+                }
+            },
+            "phone": {
+                "home": "000-1111-2222",
+                "work": "333-4444-5555"
+            }
+        }
+    ],
+    "todo": [
+        {
+            "id": "fadf-safa-43vb-sera",
+            "title": "TODO-01",
+            "editing": false,
+            "completed": true
+        },
+        {
+            "id": "tbvs-4yk0-jik9-75se",
+            "title": "TODO-02",
+            "editing": true,
+            "completed": false
+        }
+    ]
+}

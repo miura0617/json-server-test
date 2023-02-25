@@ -1,0 +1,18 @@
+{
+  "name": "json-server-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm run start:api",
+    "start:api": "npx json-server -w ./db.json  -p 3003",
+    "start:client": "npx json-server -w ./db.json  -p 3003",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "json-server": "^0.17.2"
+  }
+}
